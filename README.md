@@ -1,2 +1,2 @@
 # VB-Payroll-program
-VB software that calculates payrolls
+Visual Basic software that calculates payrolls
